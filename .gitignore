@@ -1,0 +1,8 @@
+*.png
+*.pkl
+*.nc
+*.csv
+.idea/
+.ipynb_checkpoints/
+data/
+output/
